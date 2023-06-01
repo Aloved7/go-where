@@ -1,12 +1,14 @@
 <template>
     <div>
-        hello world
+        <header-child></header-child>
     </div>
 </template>
 
 <script>
+import HeaderChild from './components/Header-child.vue'
     export default {
-        name:"HomeView"
+        name:"HomeView",
+        components:{HeaderChild}
     }
 </script>
 
