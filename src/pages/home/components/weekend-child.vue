@@ -31,7 +31,7 @@ export default {
 .item-img-warper
     overflow: hidden
     height: 0
-    padding-bottom: 33.9% 
+    padding-bottom: 37.09% 
     .item-img
         width 100%
 .item-info
